@@ -1,5 +1,3 @@
-
-
 # OpenAI Response Generator API
 This API allows you to generate responses and follow-up questions using the OpenAI language model.
 Prerequisites
